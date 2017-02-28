@@ -1,0 +1,13 @@
+# Ignore the target folder
+target
+
+# Ignore Eclipse
+.classpath
+.project
+.settings
+.idea/
+
+# Ignore OS generated files
+.DS_Store*
+Thumbs.db
+*.iml
